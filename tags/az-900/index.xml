@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AZ-900 on Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/tags/az-900/</link>
+    <description>Recent content in AZ-900 on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/tags/az-900/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Fundamentals Certified: Building My Cloud Foundation</title>
+      <link>https://www.joshuabrowner.work/blog/azure/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/azure/</guid>
+      <description>&lt;p&gt;🚀 &lt;strong&gt;Another milestone unlocked!&lt;/strong&gt; I’m proud to share that I’ve officially passed the &lt;strong&gt;Microsoft Azure Fundamentals (AZ‑900)&lt;/strong&gt; certification exam — a key step in strengthening my cloud computing expertise.&lt;/p&gt;&#xA;&lt;p&gt;This certification gave me a solid understanding of the core building blocks behind Microsoft Azure and modern cloud architecture. Here’s a snapshot of what I mastered along the way:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;☁️ &lt;strong&gt;Cloud Concepts&lt;/strong&gt;: I learned the fundamentals of cloud computing, including shared responsibility, scalability, elasticity, and global distribution.&lt;/li&gt;&#xA;&lt;li&gt;🧩 &lt;strong&gt;Azure Core Services&lt;/strong&gt;: I explored essential services like compute, storage, networking, and databases — and how they fit together in real-world solutions.&lt;/li&gt;&#xA;&lt;li&gt;🔐 &lt;strong&gt;Security &amp;amp; Compliance&lt;/strong&gt;: I gained insight into Azure’s security model, identity management, governance tools, and compliance offerings.&lt;/li&gt;&#xA;&lt;li&gt;💸 &lt;strong&gt;Cost Management&lt;/strong&gt;: I learned how Azure pricing works, how to estimate workloads, and how to optimize cloud spending.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Earning this certification strengthens my foundation as I continue advancing in &lt;strong&gt;cloud computing, automation, and healthcare IT&lt;/strong&gt;. It also sets the stage for deeper Azure learning — from identity and security to infrastructure automation and cloud-native architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

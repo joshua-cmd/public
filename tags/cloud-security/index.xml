@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Security on Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/tags/cloud-security/</link>
+    <description>Recent content in Cloud Security on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/tags/cloud-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CompTIA Secure Cloud Professional (CSCP): Leveling Up My Cloud Security Skills</title>
+      <link>https://www.joshuabrowner.work/blog/secure-cloud-professional/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/secure-cloud-professional/</guid>
+      <description>&lt;p&gt;☁️🔒 &lt;strong&gt;Another step forward in my cloud security journey!&lt;/strong&gt;&lt;br&gt;&#xA;I’m excited to announce that I’ve earned the &lt;strong&gt;CompTIA Secure Cloud Professional (CSCP)&lt;/strong&gt; designation — a stackable certification that recognizes expertise in securing and managing cloud environments.&lt;/p&gt;&#xA;&lt;p&gt;This designation is awarded upon completing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔐 &lt;strong&gt;CompTIA Security+&lt;/strong&gt; — foundational security principles and risk management&lt;/li&gt;&#xA;&lt;li&gt;☁️ &lt;strong&gt;CompTIA Cloud+&lt;/strong&gt; — cloud architecture, virtualization, automation, and resilience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Together, these certifications validate my ability to design, secure, and operate cloud infrastructure with a strong security-first mindset.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

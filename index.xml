@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/</link>
+    <description>Recent content on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CompTIA Secure Cloud Professional (CSCP): Leveling Up My Cloud Security Skills</title>
+      <link>https://www.joshuabrowner.work/blog/secure-cloud-professional/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/secure-cloud-professional/</guid>
+      <description>&lt;p&gt;☁️🔒 &lt;strong&gt;Another step forward in my cloud security journey!&lt;/strong&gt;&lt;br&gt;&#xA;I’m excited to announce that I’ve earned the &lt;strong&gt;CompTIA Secure Cloud Professional (CSCP)&lt;/strong&gt; designation — a stackable certification that recognizes expertise in securing and managing cloud environments.&lt;/p&gt;&#xA;&lt;p&gt;This designation is awarded upon completing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔐 &lt;strong&gt;CompTIA Security+&lt;/strong&gt; — foundational security principles and risk management&lt;/li&gt;&#xA;&lt;li&gt;☁️ &lt;strong&gt;CompTIA Cloud+&lt;/strong&gt; — cloud architecture, virtualization, automation, and resilience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Together, these certifications validate my ability to design, secure, and operate cloud infrastructure with a strong security-first mindset.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CompTIA Secure Infrastructure Specialist (CSIS): Strengthening My IT Core</title>
+      <link>https://www.joshuabrowner.work/blog/secure-infrastructure-specialist/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/secure-infrastructure-specialist/</guid>
+      <description>&lt;p&gt;🔐 &lt;strong&gt;A major milestone in my IT journey!&lt;/strong&gt;&lt;br&gt;&#xA;I’m proud to share that I’ve officially earned the &lt;strong&gt;CompTIA Secure Infrastructure Specialist (CSIS)&lt;/strong&gt; designation — a stackable certification that recognizes mastery across three foundational IT domains.&lt;/p&gt;&#xA;&lt;p&gt;This designation is awarded to professionals who have successfully completed:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🖥️ &lt;strong&gt;CompTIA A+&lt;/strong&gt; — hardware, troubleshooting, OS fundamentals&lt;/li&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;CompTIA Network+&lt;/strong&gt; — networking concepts, protocols, and infrastructure&lt;/li&gt;&#xA;&lt;li&gt;🔒 &lt;strong&gt;CompTIA Security+&lt;/strong&gt; — security architecture, risk management, and defensive controls&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Together, these certifications form a powerful foundation for building, securing, and maintaining modern IT environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giving Back: My Volunteer Experience with BackPack Beginnings</title>
+      <link>https://www.joshuabrowner.work/blog/backpack/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/backpack/</guid>
+      <description>&lt;p&gt;🤝 &lt;strong&gt;Community service has always been close to my heart&lt;/strong&gt;, and I’m proud to share that I recently completed &lt;strong&gt;18 hours of volunteer work&lt;/strong&gt; with &lt;a href=&#34;https://backpackbeginnings.org&#34;&gt;BackPack Beginnings&lt;/a&gt; — a nonprofit organization based in Greensboro, NC.&lt;/p&gt;&#xA;&lt;p&gt;During my time there, I assisted with various tasks that support their mission: connecting children and families to essential resources like food and basic necessities. The team described my work as efficient, considerate, and positive — a reflection of the values I strive to bring to every environment I’m part of.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sharpening Skills: My Project Experience with the U.S. Cyber Challenge</title>
+      <link>https://www.joshuabrowner.work/blog/uscc/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/uscc/</guid>
+      <description>&lt;p&gt;🛡️ &lt;strong&gt;Cybersecurity is more than a career path — it’s a calling.&lt;/strong&gt; I’m proud to share that I recently participated in the &lt;strong&gt;U.S. Cyber Challenge (USCC)&lt;/strong&gt;, where I completed a project that tested my technical expertise, creativity, and resilience under pressure.&lt;/p&gt;&#xA;&lt;p&gt;The competition brought together aspiring cybersecurity professionals from across the country. My project focused on &lt;strong&gt;system defense and vulnerability analysis&lt;/strong&gt;, requiring me to apply skills in cloud infrastructure, scripting, and network security. The judges and mentors highlighted my persistence, methodical approach, and ability to document solutions clearly — qualities I’ve worked hard to cultivate in both my homelab and academic journey.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux Essentials Certified: Building a Strong Open-Source Foundation</title>
+      <link>https://www.joshuabrowner.work/blog/linux-essentials/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/linux-essentials/</guid>
+      <description>&lt;p&gt;🐧 &lt;strong&gt;Proud to share another achievement!&lt;/strong&gt;&lt;br&gt;&#xA;I’ve officially earned the &lt;strong&gt;Linux Essentials&lt;/strong&gt; certification from the &lt;strong&gt;Linux Professional Institute (LPI)&lt;/strong&gt; — a globally recognized credential that validates foundational Linux knowledge.&lt;/p&gt;&#xA;&lt;p&gt;This certification strengthened my understanding of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;💻 &lt;strong&gt;Linux command-line fundamentals&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;📁 &lt;strong&gt;Filesystem navigation and permissions&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;Open-source principles and licensing&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Basic system administration tasks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Linux is at the heart of cloud computing, cybersecurity, DevOps, and modern infrastructure. Mastering these fundamentals is essential as I continue advancing in &lt;strong&gt;cloud engineering, automation, and homelab development&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Azure Fundamentals Certified: Building My Cloud Foundation</title>
+      <link>https://www.joshuabrowner.work/blog/azure/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/azure/</guid>
+      <description>&lt;p&gt;🚀 &lt;strong&gt;Another milestone unlocked!&lt;/strong&gt; I’m proud to share that I’ve officially passed the &lt;strong&gt;Microsoft Azure Fundamentals (AZ‑900)&lt;/strong&gt; certification exam — a key step in strengthening my cloud computing expertise.&lt;/p&gt;&#xA;&lt;p&gt;This certification gave me a solid understanding of the core building blocks behind Microsoft Azure and modern cloud architecture. Here’s a snapshot of what I mastered along the way:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;☁️ &lt;strong&gt;Cloud Concepts&lt;/strong&gt;: I learned the fundamentals of cloud computing, including shared responsibility, scalability, elasticity, and global distribution.&lt;/li&gt;&#xA;&lt;li&gt;🧩 &lt;strong&gt;Azure Core Services&lt;/strong&gt;: I explored essential services like compute, storage, networking, and databases — and how they fit together in real-world solutions.&lt;/li&gt;&#xA;&lt;li&gt;🔐 &lt;strong&gt;Security &amp;amp; Compliance&lt;/strong&gt;: I gained insight into Azure’s security model, identity management, governance tools, and compliance offerings.&lt;/li&gt;&#xA;&lt;li&gt;💸 &lt;strong&gt;Cost Management&lt;/strong&gt;: I learned how Azure pricing works, how to estimate workloads, and how to optimize cloud spending.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Earning this certification strengthens my foundation as I continue advancing in &lt;strong&gt;cloud computing, automation, and healthcare IT&lt;/strong&gt;. It also sets the stage for deeper Azure learning — from identity and security to infrastructure automation and cloud-native architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Certified in SQL: My Journey into Data Mastery</title>
+      <link>https://www.joshuabrowner.work/blog/sql/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/sql/</guid>
+      <description>&lt;p&gt;🎉 &lt;strong&gt;Big news!&lt;/strong&gt; I’m excited to share that I’ve officially earned my &lt;strong&gt;Certificate of Completion in SQL&lt;/strong&gt; from &lt;a href=&#34;https://mimo.org&#34;&gt;Mimo&lt;/a&gt;, dated &lt;strong&gt;June 19, 2024&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This course was a deep dive into the fundamentals of &lt;strong&gt;Structured Query Language (SQL)&lt;/strong&gt; — the language that powers data manipulation and retrieval in relational databases. Here&amp;rsquo;s a quick breakdown of what I gained from the curriculum:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📊 &lt;strong&gt;Core SQL Concepts&lt;/strong&gt;: I learned how to create and manage tables, write queries, and retrieve meaningful insights from data.&lt;/li&gt;&#xA;&lt;li&gt;🔗 &lt;strong&gt;Multi-table Queries&lt;/strong&gt;: I explored how to join tables, filter results, and aggregate data for more complex analysis.&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Practical Application&lt;/strong&gt;: Beyond theory, I practiced real-world scenarios to manage and query relational databases effectively.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This certification marks a key milestone in my journey toward becoming a more data-savvy IT professional — especially as I continue advancing in &lt;strong&gt;cloud computing and healthcare IT&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

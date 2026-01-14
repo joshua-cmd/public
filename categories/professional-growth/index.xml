@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Growth on Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/categories/professional-growth/</link>
+    <description>Recent content in Professional Growth on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/categories/professional-growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharpening Skills: My Project Experience with the U.S. Cyber Challenge</title>
+      <link>https://www.joshuabrowner.work/blog/uscc/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/uscc/</guid>
+      <description>&lt;p&gt;🛡️ &lt;strong&gt;Cybersecurity is more than a career path — it’s a calling.&lt;/strong&gt; I’m proud to share that I recently participated in the &lt;strong&gt;U.S. Cyber Challenge (USCC)&lt;/strong&gt;, where I completed a project that tested my technical expertise, creativity, and resilience under pressure.&lt;/p&gt;&#xA;&lt;p&gt;The competition brought together aspiring cybersecurity professionals from across the country. My project focused on &lt;strong&gt;system defense and vulnerability analysis&lt;/strong&gt;, requiring me to apply skills in cloud infrastructure, scripting, and network security. The judges and mentors highlighted my persistence, methodical approach, and ability to document solutions clearly — qualities I’ve worked hard to cultivate in both my homelab and academic journey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

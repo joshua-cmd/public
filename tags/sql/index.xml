@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/tags/sql/</link>
+    <description>Recent content in SQL on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certified in SQL: My Journey into Data Mastery</title>
+      <link>https://www.joshuabrowner.work/blog/sql/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/sql/</guid>
+      <description>&lt;p&gt;🎉 &lt;strong&gt;Big news!&lt;/strong&gt; I’m excited to share that I’ve officially earned my &lt;strong&gt;Certificate of Completion in SQL&lt;/strong&gt; from &lt;a href=&#34;https://mimo.org&#34;&gt;Mimo&lt;/a&gt;, dated &lt;strong&gt;June 19, 2024&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This course was a deep dive into the fundamentals of &lt;strong&gt;Structured Query Language (SQL)&lt;/strong&gt; — the language that powers data manipulation and retrieval in relational databases. Here&amp;rsquo;s a quick breakdown of what I gained from the curriculum:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📊 &lt;strong&gt;Core SQL Concepts&lt;/strong&gt;: I learned how to create and manage tables, write queries, and retrieve meaningful insights from data.&lt;/li&gt;&#xA;&lt;li&gt;🔗 &lt;strong&gt;Multi-table Queries&lt;/strong&gt;: I explored how to join tables, filter results, and aggregate data for more complex analysis.&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Practical Application&lt;/strong&gt;: Beyond theory, I practiced real-world scenarios to manage and query relational databases effectively.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This certification marks a key milestone in my journey toward becoming a more data-savvy IT professional — especially as I continue advancing in &lt;strong&gt;cloud computing and healthcare IT&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Portfolio Adventures</title>
+    <link>https://www.joshuabrowner.work/tags/open-source/</link>
+    <description>Recent content in Open Source on Portfolio Adventures</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joshuabrowner.work/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Essentials Certified: Building a Strong Open-Source Foundation</title>
+      <link>https://www.joshuabrowner.work/blog/linux-essentials/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.joshuabrowner.work/blog/linux-essentials/</guid>
+      <description>&lt;p&gt;🐧 &lt;strong&gt;Proud to share another achievement!&lt;/strong&gt;&lt;br&gt;&#xA;I’ve officially earned the &lt;strong&gt;Linux Essentials&lt;/strong&gt; certification from the &lt;strong&gt;Linux Professional Institute (LPI)&lt;/strong&gt; — a globally recognized credential that validates foundational Linux knowledge.&lt;/p&gt;&#xA;&lt;p&gt;This certification strengthened my understanding of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;💻 &lt;strong&gt;Linux command-line fundamentals&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;📁 &lt;strong&gt;Filesystem navigation and permissions&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;Open-source principles and licensing&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Basic system administration tasks&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Linux is at the heart of cloud computing, cybersecurity, DevOps, and modern infrastructure. Mastering these fundamentals is essential as I continue advancing in &lt;strong&gt;cloud engineering, automation, and homelab development&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
